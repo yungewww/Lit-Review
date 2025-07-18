@@ -3,8 +3,6 @@
 - **SketchRNN: A Neural Representation of Sketch Drawings (ICLR 2018)**
     - Paper: https://arxiv.org/abs/1704.03477
     - Demo: https://experiments.withgoogle.com/sketch-rnn-demo
-- **DoodleFormer: Creative Sketch Drawing with Transformers (ECCV'22)**
-    - Demo: https://github.com/ankanbhunia/doodleformer
 - SKETCHKNITTER: VECTORIZED SKETCH GENERATION WITH DIFFUSION MODELS (ICLR 23)
     - Paper: https://openreview.net/pdf?id=4eJ43EN2g6l
 - **StrokeFusion: Vector Sketch Generation via Joint Stroke-UDF Encoding and Latent Sequence Diffusion** (arxiv 25.03)
@@ -68,6 +66,8 @@ Model (Mask to sketch)
     - https://www.bilibili.com/video/BV18T411a77j/
     - https://www.bilibili.com/video/BV1Uo4y1P7dS/
     - https://www.bilibili.com/video/BV1Wh4y1m7Vz/
+- **DoodleFormer: Creative Sketch Drawing with Transformers (ECCV'22)**
+    - Demo: https://github.com/ankanbhunia/doodleformer
 
 **Sketch to Image:**
 
